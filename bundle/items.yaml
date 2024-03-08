@@ -15,6 +15,7 @@ items:
   items:
   - kind: organizationFolder
     name: controller-provision
+    displayName: controller-provision
     disabled: false
     navigators:
     - github:
@@ -51,6 +52,7 @@ items:
         branches: .*
   - kind: organizationFolder
     name: controller-casc-update
+    displayName: controller-casc-update
     disabled: false
     navigators:
     - github:
